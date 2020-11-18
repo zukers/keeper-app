@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
-// import notes from "./notes.jsx";
 import Note from "./Note.jsx";
 import InputArea from "./InputArea.jsx";
 
